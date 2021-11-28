@@ -1,3 +1,10 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+
+<HEAD>
+<META NAME="Generator" CONTENT="Hancom HWP 9.6.1.6189">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
+
 <!--
 p.HStyle0
 	{style-name:"바탕글"; margin-top:0.0pt; margin-bottom:0.0pt; text-align:justify; text-indent:0.0pt; line-height:160%; font-size:10.0pt; font-family:함초롬바탕; letter-spacing:0; font-weight:normal; font-style:normal; color:#000000;}
@@ -108,12 +115,13 @@ li.HStyle17
 div.HStyle17
 	{style-name:"차례 3"; margin-left:22.0pt; margin-top:0.0pt; margin-bottom:7.0pt; text-align:left; text-indent:0.0pt; line-height:160%; font-size:11.0pt; font-family:함초롬돋움; letter-spacing:0; font-weight:normal; font-style:normal; color:#000000;}
 -->
-
+</STYLE>
 </HEAD>
 
 <BODY>
-
-<P CLASS=HStyle0> 프로젝트 Speccification </P>
+<P class=HStyle0>- 프로젝트 roadmap</P>
+<img src="https://github.com/James-Lee/spring_member_board_project/blob/main/show/roadmap.PNG"><br>
+<P CLASS=HStyle0>- 프로젝트 specs</P>
 <TABLE border="1" cellspacing="0" cellpadding="0" style='border-collapse:collapse;border:none;'>
 <TR>
 	<TD valign="middle" style='width:80px;height:40px;border-left:solid #000000 0.7pt;border-right:solid #000000 0.7pt;border-top:solid #000000 0.7pt;border-bottom:solid #000000 0.7pt;padding:7.5pt 7.5pt 7.5pt 7.5pt'>
