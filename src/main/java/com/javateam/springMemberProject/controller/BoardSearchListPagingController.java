@@ -67,7 +67,7 @@ public class BoardSearchListPagingController {
 		model.addAttribute("searchVO", searchVO);
 		model.addAttribute("pageDTO", pageDTO);
 		
-		return "/board/boardList";
+		return "/board/boardSearchList";
 	}
 
 }
