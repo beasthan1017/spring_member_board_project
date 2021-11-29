@@ -114,15 +114,16 @@ li.HStyle17
 div.HStyle17
 	{style-name:"차례 3"; margin-left:22.0pt; margin-top:0.0pt; margin-bottom:7.0pt; text-align:left; text-indent:0.0pt; line-height:160%; font-size:11.0pt; font-family:함초롬돋움; letter-spacing:0; font-weight:normal; font-style:normal; color:#000000;}
 -->
-</STYLE>
+
 </HEAD>
 
 <BODY>
 
-<P CLASS=HStyle0>- 프로젝트 로드맵(Roadmap)</P>
+
+<P CLASS=HStyle0><h3>- 프로젝트 로드맵(Roadmap)</h3></P>
 <img src="https://github.com/James-Lee/spring_member_board_project/blob/main/show/roadmap.PNG">
 <br>
-<P CLASS=HStyle0>- 프로젝트 기술사양(Specs)</P>
+<P CLASS=HStyle0><h3>- 프로젝트 기술사양(Specs)</h3></P>
 
 <TABLE border="1" cellspacing="0" cellpadding="0" style='border-collapse:collapse;border:none;'>
 <TR>
